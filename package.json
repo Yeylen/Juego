@@ -1,0 +1,13 @@
+{
+  "name": "vector-conduccion-multijugador",
+  "private": true,
+  "version": "12.0.0",
+  "description": "Simulación de conducción y salas privadas de dos jugadores",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.45.0"
+  }
+}
